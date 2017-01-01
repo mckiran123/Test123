@@ -1,4 +1,19 @@
 /not to include/*
+/Sample123/.idea/*
+/Sample123/gradle/*
+/Sample123/.gradle/*
+/Sample123/build.gradle
+/Sample123/gradle.properties
+/Sample123/gradlew
+/Sample123/gradlew.bat
+/Sample123/local.properties
+/Sample123/Sample123.iml
+/Sample123/settings.gradle
+/Sample123/app/build/*
+/Sample123/app/libs/*
+/Sample123/app/app.iml
+/Sample123/app/build.gradle
+/Sample123/app/proguard-rules.pro
 
 # Built application files
 *.apk
